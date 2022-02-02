@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9602ec771aea4d5b94253587e37aa90d, type: 3}
+  m_Name: New Junk
+  m_EditorClassIdentifier: 
+  itemGuid: 5407db73-cd93-4842-84c8-d7189f74b600
+  sprite: {fileID: 21300000, guid: e682b8ff04f342f4c921c56c0c32791a, type: 3}
+  type: 7
+  value: 10
+  description: Vendor trash.
+  buffs: []
+  stackable: 1

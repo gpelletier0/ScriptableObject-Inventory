@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 351bb925bd9b4ede8b7ecfce94eb786d, type: 3}
+  m_Name: New Shield
+  m_EditorClassIdentifier: 
+  itemGuid: 56aac59b-30ff-4c0a-b3ec-5b5d72a472e8
+  sprite: {fileID: 21300000, guid: 326e4ceb664c332448fc421ff516fadc, type: 3}
+  type: 4
+  value: 100
+  description: Keep on deflecting.
+  buffs:
+  - itemAttribute: 2
+    value: 10
+  stackable: 0
